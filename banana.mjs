@@ -2,4 +2,6 @@ let imgsrs = 'https://www.insidehook.com/wp-content/uploads/2021/07/hero-6.jpg?f
 
 let description = 'A banana is an elongated, edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa.';
 
-export{imgsrs , description};
+let color = 'yellow'
+
+export{imgsrs , description , color};
