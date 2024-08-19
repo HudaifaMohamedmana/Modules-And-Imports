@@ -9,6 +9,13 @@ select{
     color: aliceblue;
     border-radius: 25px;
 }
+select:hover{
+    zoom: 105%;
+    background-color: #333;
+    border: solid black;
+}
+
+
 .hxh{
     display: flex;
     justify-content: center;
